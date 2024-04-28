@@ -4,6 +4,15 @@
 - 🔄 Continuously updated.
 - 📬 Feel free to email me with suggestions: [saisathvikruppa@proton.me](mailto:saisathvikruppa@proton.me)
 
+- Linux Filesystem Architecture
+
+![image](https://github.com/ahmed-saleh-asb/OSCP-Cheatsheet/assets/6528562/fb665992-498f-4cea-aa81-fc4883bc71d0)
+
+- Windows Architecture
+
+ ![image](https://github.com/ahmed-saleh-asb/OSCP-Cheatsheet/assets/6528562/9bf3ee47-01db-467a-944f-e350c870d0ff)
+ 
+
 
 # Table of Content
 - [General](#general)
