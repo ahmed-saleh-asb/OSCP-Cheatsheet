@@ -780,6 +780,11 @@ mask ""
 recurse ON
 prompt OFF
 mget *
+
+grep -r # examble active.htb
+
+gpp-decrypt # to decrept the hash
+
 ```
 
 ## HTTP/S enumeration
