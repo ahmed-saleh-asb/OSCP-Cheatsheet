@@ -12,6 +12,9 @@
 
  ![image](https://github.com/ahmed-saleh-asb/OSCP-Cheatsheet/assets/6528562/9bf3ee47-01db-467a-944f-e350c870d0ff)
  
+- Windows / Linux Local Privilege Escalation
+
+![image](https://github.com/ahmed-saleh-asb/OSCP-Cheatsheet/assets/6528562/37b9da7e-3af4-4ca1-9e1b-af5757cc5f84)
 
 
 # Table of Content
